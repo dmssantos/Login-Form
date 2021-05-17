@@ -3,3 +3,15 @@ Formulário de login utilizando: HTML/CSS | JavaScript | VariableCSS | Animarion
 
 
 
+### Technologies:
+<kbd>HTML</kbd>  
+<kbd>CSS</kbd>  
+<kbd>JavaScript</kbd>  
+
+&nbsp;
+
+:link: https://dmssantos.github.io/login-form/
+
+
+
+
