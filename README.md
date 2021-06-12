@@ -1,5 +1,5 @@
 # Login-Form
-Formulário de login utilizando: HTML/CSS | JavaScript | VariableCSS | AnimarionCSS | fetchApi.
+Animaão de formulário de login utilizando: HTML/CSS | JavaScript | VariableCSS | AnimarionCSS | fetchApi.
 
 
 
