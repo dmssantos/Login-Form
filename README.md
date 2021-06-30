@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Grassmorphism" src="img/template" width="100%">
+  <img alt="Grassmorphism" src="github/template" width="100%">
 </p>
 
 ## ✨ Tecnologias
