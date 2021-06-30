@@ -28,7 +28,7 @@ Projeto de um formulário de login, desenvolvido na aula com <a href="https://ww
 
 ## 🚀 Execução
 
-você pode ver o funcionamento em: https://dmssantos.github.io/calculadora/
+você pode ver o funcionamento em: https://dmssantos.github.io/Login-Form/
 
 ## 🤝 Contribuindo
 
