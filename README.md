@@ -19,7 +19,7 @@
 ## ✨ Tecnologias
 
 `HTML`   
-`CSS`
+`CSS`   
 `JavaScript`
 
 ## 💻 Projeto
